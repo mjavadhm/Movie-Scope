@@ -1,0 +1,688 @@
+[
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ARRAY",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "commands_router",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "callbacks_router",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "messages_router",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "ParseMode",
+        "importPath": "aiogram.enums",
+        "description": "aiogram.enums",
+        "isExtraImport": true,
+        "detail": "aiogram.enums",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR_CHANNEL_ID",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "kind": 6,
+        "importPath": "models.movie",
+        "description": "models.movie",
+        "peekOfCode": "class Movie(Base):\n    __tablename__ = 'movies'\n    id = Column(Integer, primary_key=True)\n    tmdb_id = Column(Integer, unique=True, nullable=False)\n    title = Column(Text, nullable=False)\n    overview = Column(Text)\n    release_date = Column(Date)\n    popularity = Column(Float)\n    vote_average = Column(Float)\n    genres = Column(ARRAY(Text))",
+        "detail": "models.movie",
+        "documentation": {}
+    },
+    {
+        "label": "MovieCast",
+        "kind": 6,
+        "importPath": "models.movie_cast",
+        "description": "models.movie_cast",
+        "peekOfCode": "class MovieCast(Base):\n    __tablename__ = 'movie_cast'\n    id = Column(Integer, primary_key=True)\n    movie_id = Column(Integer, ForeignKey('movies.id', ondelete=\"CASCADE\"))\n    person_id = Column(Integer, ForeignKey('people.id', ondelete=\"CASCADE\"))\n    character_name = Column(Text)\n    cast_order = Column(Integer)\n    # Relationships\n    movie = relationship(\"Movie\", back_populates=\"cast\")\n    person = relationship(\"Person\", back_populates=\"cast_movies\")",
+        "detail": "models.movie_cast",
+        "documentation": {}
+    },
+    {
+        "label": "MovieCrew",
+        "kind": 6,
+        "importPath": "models.movie_crew",
+        "description": "models.movie_crew",
+        "peekOfCode": "class MovieCrew(Base):\n    __tablename__ = 'movie_crew'\n    id = Column(Integer, primary_key=True)\n    movie_id = Column(Integer, ForeignKey('movies.id', ondelete=\"CASCADE\"))\n    person_id = Column(Integer, ForeignKey('people.id', ondelete=\"CASCADE\"))\n    job = Column(Text)\n    department = Column(Text)\n    # Relationships\n    movie = relationship(\"Movie\", back_populates=\"crew\")\n    person = relationship(\"Person\", back_populates=\"crew_movies\")",
+        "detail": "models.movie_crew",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "models.person",
+        "description": "models.person",
+        "peekOfCode": "class Person(Base):\n    __tablename__ = 'people'\n    id = Column(Integer, primary_key=True)\n    tmdb_id = Column(Integer, unique=True, nullable=False)\n    name = Column(Text, nullable=False)\n    profile_url = Column(Text)\n    known_for_department = Column(Text)\n    # Relationships\n    cast_movies = relationship(\"MovieCast\", back_populates=\"person\", cascade=\"all, delete-orphan\")\n    crew_movies = relationship(\"MovieCrew\", back_populates=\"person\", cascade=\"all, delete-orphan\")",
+        "detail": "models.person",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.callbacks",
+        "description": "routers.callbacks",
+        "peekOfCode": "router = Router(name=\"callbacks\")\nlogger = get_logger()\n@router.callback_query(F.data.startswith(\"button_\"))\nasync def process_button_press(callback: CallbackQuery):\n    \"\"\"Handle button presses\"\"\"\n    try:\n        if callback.data:\n            # Get the button data (everything after \"button_\")\n            button_data = callback.data.replace(\"button_\", \"\")\n            # Answer the callback to remove loading state",
+        "detail": "routers.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "routers.callbacks",
+        "description": "routers.callbacks",
+        "peekOfCode": "logger = get_logger()\n@router.callback_query(F.data.startswith(\"button_\"))\nasync def process_button_press(callback: CallbackQuery):\n    \"\"\"Handle button presses\"\"\"\n    try:\n        if callback.data:\n            # Get the button data (everything after \"button_\")\n            button_data = callback.data.replace(\"button_\", \"\")\n            # Answer the callback to remove loading state\n            await callback.answer()",
+        "detail": "routers.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.commands",
+        "description": "routers.commands",
+        "peekOfCode": "router = Router(name=\"commands\")\nlogger = get_logger()\n@router.message(Command(\"start\"))\nasync def cmd_start(message: Message):\n    \"\"\"Handle /start command\"\"\"\n    try:\n        await message.answer(\n            \"👋 Welcome! I'm your bot.\\n\"\n            \"Use /help to see available commands.\"\n        )",
+        "detail": "routers.commands",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "routers.commands",
+        "description": "routers.commands",
+        "peekOfCode": "logger = get_logger()\n@router.message(Command(\"start\"))\nasync def cmd_start(message: Message):\n    \"\"\"Handle /start command\"\"\"\n    try:\n        await message.answer(\n            \"👋 Welcome! I'm your bot.\\n\"\n            \"Use /help to see available commands.\"\n        )\n    except Exception as e:",
+        "detail": "routers.commands",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.messages",
+        "description": "routers.messages",
+        "peekOfCode": "router = Router(name=\"messages\")\nlogger = get_logger()\n@router.message(F.text)\nasync def handle_text(message: Message):\n    \"\"\"Handle text messages\"\"\"\n    try:\n        # Echo the message back\n        await message.reply(\n            f\"You said: {message.text}\\n\"\n            \"I'm a bot template and can be customized to handle messages differently!\"",
+        "detail": "routers.messages",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "routers.messages",
+        "description": "routers.messages",
+        "peekOfCode": "logger = get_logger()\n@router.message(F.text)\nasync def handle_text(message: Message):\n    \"\"\"Handle text messages\"\"\"\n    try:\n        # Echo the message back\n        await message.reply(\n            f\"You said: {message.text}\\n\"\n            \"I'm a bot template and can be customized to handle messages differently!\"\n        )",
+        "detail": "routers.messages",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "logger = get_logger()\n# Register routers\ndp.include_router(commands_router)\ndp.include_router(callbacks_router)\ndp.include_router(messages_router)\nasync def set_commands():\n    \"\"\"Set bot commands in menu\"\"\"\n    commands = [\n        BotCommand(command=\"start\", description=\"Start the bot\"),\n        BotCommand(command=\"help\", description=\"Show help message\"),",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_bot",
+        "kind": 2,
+        "importPath": "bot",
+        "description": "bot",
+        "peekOfCode": "def get_bot() -> Bot:\n    return bot\n# Function to get dispatcher instance\ndef get_dispatcher() -> Dispatcher:\n    return dp",
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "get_dispatcher",
+        "kind": 2,
+        "importPath": "bot",
+        "description": "bot",
+        "peekOfCode": "def get_dispatcher() -> Dispatcher:\n    return dp",
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "bot",
+        "description": "bot",
+        "peekOfCode": "bot = Bot(token=BOT_TOKEN, parse_mode=ParseMode.HTML)\ndp = Dispatcher()\n# Function to get bot instance\ndef get_bot() -> Bot:\n    return bot\n# Function to get dispatcher instance\ndef get_dispatcher() -> Dispatcher:\n    return dp",
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "kind": 5,
+        "importPath": "bot",
+        "description": "bot",
+        "peekOfCode": "dp = Dispatcher()\n# Function to get bot instance\ndef get_bot() -> Bot:\n    return bot\n# Function to get dispatcher instance\ndef get_dispatcher() -> Dispatcher:\n    return dp",
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "BOT_TOKEN = getenv(\"BOT_TOKEN\")\nif not BOT_TOKEN:\n    raise ValueError(\"BOT_TOKEN not set in .env\")\n# Error logging channel\nERROR_CHANNEL_ID = getenv(\"ERROR_CHANNEL_ID\")\nif not ERROR_CHANNEL_ID:\n    raise ValueError(\"ERROR_CHANNEL_ID not set in .env\")\nERROR_CHANNEL_ID = int(ERROR_CHANNEL_ID)\n# Database settings\nDATABASE_URL = getenv(\"DATABASE_URL\")",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR_CHANNEL_ID",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "ERROR_CHANNEL_ID = getenv(\"ERROR_CHANNEL_ID\")\nif not ERROR_CHANNEL_ID:\n    raise ValueError(\"ERROR_CHANNEL_ID not set in .env\")\nERROR_CHANNEL_ID = int(ERROR_CHANNEL_ID)\n# Database settings\nDATABASE_URL = getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL not set in .env\")\nTMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR_CHANNEL_ID",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "ERROR_CHANNEL_ID = int(ERROR_CHANNEL_ID)\n# Database settings\nDATABASE_URL = getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL not set in .env\")\nTMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "DATABASE_URL = getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL not set in .env\")\nTMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TMDB_API_KEY",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "TMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramBotHandler",
+        "kind": 6,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "class TelegramBotHandler(logging.Handler):\n    def __init__(self, bot: Bot, channel_id: int):\n        super().__init__()\n        self.bot = bot\n        self.channel_id = channel_id\n    def emit(self, record):\n        log_entry = self.format(record)\n        asyncio.create_task(self._send_log_entry(log_entry))\n    async def _send_log_entry(self, log_entry: str):\n        try:",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "def get_logger():\n    return logger",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "logger = logging.getLogger('bot_logger')\nlogger.setLevel(logging.INFO)\n# Console handler\nconsole_handler = logging.StreamHandler()\nconsole_handler.setLevel(logging.INFO)\nconsole_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nconsole_handler.setFormatter(console_format)\nlogger.addHandler(console_handler)\n# Custom handler for sending errors to Telegram channel\nclass TelegramBotHandler(logging.Handler):",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "console_handler",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "console_handler = logging.StreamHandler()\nconsole_handler.setLevel(logging.INFO)\nconsole_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nconsole_handler.setFormatter(console_format)\nlogger.addHandler(console_handler)\n# Custom handler for sending errors to Telegram channel\nclass TelegramBotHandler(logging.Handler):\n    def __init__(self, bot: Bot, channel_id: int):\n        super().__init__()\n        self.bot = bot",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "console_format",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "console_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')\nconsole_handler.setFormatter(console_format)\nlogger.addHandler(console_handler)\n# Custom handler for sending errors to Telegram channel\nclass TelegramBotHandler(logging.Handler):\n    def __init__(self, bot: Bot, channel_id: int):\n        super().__init__()\n        self.bot = bot\n        self.channel_id = channel_id\n    def emit(self, record):",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "bot = Bot(token=BOT_TOKEN)\n# Add Telegram handler for ERROR level\ntelegram_handler = TelegramBotHandler(bot, ERROR_CHANNEL_ID)\ntelegram_handler.setLevel(logging.ERROR)\ntelegram_format = logging.Formatter('%(levelname)s - %(asctime)s\\n\\n%(message)s')\ntelegram_handler.setFormatter(telegram_format)\nlogger.addHandler(telegram_handler)\n# Function to get logger\ndef get_logger():\n    return logger",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "telegram_handler",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "telegram_handler = TelegramBotHandler(bot, ERROR_CHANNEL_ID)\ntelegram_handler.setLevel(logging.ERROR)\ntelegram_format = logging.Formatter('%(levelname)s - %(asctime)s\\n\\n%(message)s')\ntelegram_handler.setFormatter(telegram_format)\nlogger.addHandler(telegram_handler)\n# Function to get logger\ndef get_logger():\n    return logger",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "telegram_format",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "telegram_format = logging.Formatter('%(levelname)s - %(asctime)s\\n\\n%(message)s')\ntelegram_handler.setFormatter(telegram_format)\nlogger.addHandler(telegram_handler)\n# Function to get logger\ndef get_logger():\n    return logger",
+        "detail": "logger",
+        "documentation": {}
+    }
+]
