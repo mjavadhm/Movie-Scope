@@ -144,6 +144,38 @@
         "documentation": {}
     },
     {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
         "label": "ARRAY",
         "importPath": "sqlalchemy.dialects.postgresql",
         "description": "sqlalchemy.dialects.postgresql",
@@ -280,11 +312,99 @@
         "documentation": {}
     },
     {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
         "label": "BotCommand",
         "importPath": "aiogram.types",
         "description": "aiogram.types",
         "isExtraImport": true,
         "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "importPath": "models.movie",
+        "description": "models.movie",
+        "isExtraImport": true,
+        "detail": "models.movie",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "importPath": "models.movie",
+        "description": "models.movie",
+        "isExtraImport": true,
+        "detail": "models.movie",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "importPath": "models.movie",
+        "description": "models.movie",
+        "isExtraImport": true,
+        "detail": "models.movie",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
         "documentation": {}
     },
     {
@@ -328,6 +448,110 @@
         "documentation": {}
     },
     {
+        "label": "fetch_and_save_upcoming_movies",
+        "importPath": "services.movie_service",
+        "description": "services.movie_service",
+        "isExtraImport": true,
+        "detail": "services.movie_service",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_and_save_movie",
+        "importPath": "services.movie_service",
+        "description": "services.movie_service",
+        "isExtraImport": true,
+        "detail": "services.movie_service",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_and_save_upcoming_movies",
+        "importPath": "services.movie_service",
+        "description": "services.movie_service",
+        "isExtraImport": true,
+        "detail": "services.movie_service",
+        "documentation": {}
+    },
+    {
+        "label": "ChannelService",
+        "importPath": "services.channel_service",
+        "description": "services.channel_service",
+        "isExtraImport": true,
+        "detail": "services.channel_service",
+        "documentation": {}
+    },
+    {
+        "label": "ChannelService",
+        "importPath": "services.channel_service",
+        "description": "services.channel_service",
+        "isExtraImport": true,
+        "detail": "services.channel_service",
+        "documentation": {}
+    },
+    {
+        "label": "MOVIES_CHANNEL_ID",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR_CHANNEL_ID",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TMDB_API_KEY",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TMDB_API_KEY",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MOVIES_CHANNEL_ID",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR_CHANNEL_ID",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
         "label": "asyncio",
         "kind": 6,
         "isExtraImport": true,
@@ -337,12 +561,51 @@
         "documentation": {}
     },
     {
-        "label": "logging",
-        "kind": 6,
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "importPath": "logging",
-        "description": "logging",
-        "detail": "logging",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramBadRequest",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "get_bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
         "documentation": {}
     },
     {
@@ -359,6 +622,89 @@
         "description": "bot",
         "isExtraImport": true,
         "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "tmdbsimple",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tmdbsimple",
+        "description": "tmdbsimple",
+        "detail": "tmdbsimple",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "models.person",
+        "description": "models.person",
+        "isExtraImport": true,
+        "detail": "models.person",
+        "documentation": {}
+    },
+    {
+        "label": "MovieCast",
+        "importPath": "models.movie_cast",
+        "description": "models.movie_cast",
+        "isExtraImport": true,
+        "detail": "models.movie_cast",
+        "documentation": {}
+    },
+    {
+        "label": "MovieCrew",
+        "importPath": "models.movie_crew",
+        "description": "models.movie_crew",
+        "isExtraImport": true,
+        "detail": "models.movie_crew",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
         "documentation": {}
     },
     {
@@ -386,35 +732,19 @@
         "documentation": {}
     },
     {
+        "label": "MovieUpdateScheduler",
+        "importPath": "services.movie_scheduler",
+        "description": "services.movie_scheduler",
+        "isExtraImport": true,
+        "detail": "services.movie_scheduler",
+        "documentation": {}
+    },
+    {
         "label": "ParseMode",
         "importPath": "aiogram.enums",
         "description": "aiogram.enums",
         "isExtraImport": true,
         "detail": "aiogram.enums",
-        "documentation": {}
-    },
-    {
-        "label": "BOT_TOKEN",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "BOT_TOKEN",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "ERROR_CHANNEL_ID",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
         "documentation": {}
     },
     {
@@ -492,7 +822,7 @@
         "kind": 5,
         "importPath": "routers.commands",
         "description": "routers.commands",
-        "peekOfCode": "router = Router(name=\"commands\")\nlogger = get_logger()\n@router.message(Command(\"start\"))\nasync def cmd_start(message: Message):\n    \"\"\"Handle /start command\"\"\"\n    try:\n        await message.answer(\n            \"👋 Welcome! I'm your bot.\\n\"\n            \"Use /help to see available commands.\"\n        )",
+        "peekOfCode": "router = Router(name=\"commands\")\nlogger = get_logger()\n@router.message(Command(\"start\"))\nasync def cmd_start(message: Message):\n    \"\"\"Handle /start command\"\"\"\n    try:\n        await message.answer(\n            \"👋 Welcome! I'm your movie bot.\\n\"\n            \"Use /help to see available commands.\"\n        )",
         "detail": "routers.commands",
         "documentation": {}
     },
@@ -501,7 +831,7 @@
         "kind": 5,
         "importPath": "routers.commands",
         "description": "routers.commands",
-        "peekOfCode": "logger = get_logger()\n@router.message(Command(\"start\"))\nasync def cmd_start(message: Message):\n    \"\"\"Handle /start command\"\"\"\n    try:\n        await message.answer(\n            \"👋 Welcome! I'm your bot.\\n\"\n            \"Use /help to see available commands.\"\n        )\n    except Exception as e:",
+        "peekOfCode": "logger = get_logger()\n@router.message(Command(\"start\"))\nasync def cmd_start(message: Message):\n    \"\"\"Handle /start command\"\"\"\n    try:\n        await message.answer(\n            \"👋 Welcome! I'm your movie bot.\\n\"\n            \"Use /help to see available commands.\"\n        )\n    except Exception as e:",
         "detail": "routers.commands",
         "documentation": {}
     },
@@ -524,11 +854,65 @@
         "documentation": {}
     },
     {
+        "label": "ChannelService",
+        "kind": 6,
+        "importPath": "services.channel_services",
+        "description": "services.channel_services",
+        "peekOfCode": "class ChannelService:\n    def __init__(self, channel_id: int):\n        self.channel_id = channel_id\n        self.bot = get_bot()\n    async def send_movie_post(self, movie):\n        \"\"\"Send movie poster and info to channel with follow button\"\"\"\n        try:\n            # Create movie info text\n            movie_text = self._format_movie_text(movie)\n            # Create inline keyboard with follow button",
+        "detail": "services.channel_services",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "services.channel_services",
+        "description": "services.channel_services",
+        "peekOfCode": "logger = get_logger()\nclass ChannelService:\n    def __init__(self, channel_id: int):\n        self.channel_id = channel_id\n        self.bot = get_bot()\n    async def send_movie_post(self, movie):\n        \"\"\"Send movie poster and info to channel with follow button\"\"\"\n        try:\n            # Create movie info text\n            movie_text = self._format_movie_text(movie)",
+        "detail": "services.channel_services",
+        "documentation": {}
+    },
+    {
+        "label": "MovieUpdateScheduler",
+        "kind": 6,
+        "importPath": "services.movie_scheduler",
+        "description": "services.movie_scheduler",
+        "peekOfCode": "class MovieUpdateScheduler:\n    def __init__(self, channel_id: int):\n        self.channel_service = ChannelService(channel_id)\n        self.is_running = False\n        self.check_interval = 24 * 60 * 60  # 24 hours in seconds\n    async def start_scheduler(self):\n        \"\"\"Start the movie update scheduler\"\"\"\n        self.is_running = True\n        logger.info(\"Movie update scheduler started\")\n        while self.is_running:",
+        "detail": "services.movie_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "services.movie_scheduler",
+        "description": "services.movie_scheduler",
+        "peekOfCode": "logger = get_logger()\nclass MovieUpdateScheduler:\n    def __init__(self, channel_id: int):\n        self.channel_service = ChannelService(channel_id)\n        self.is_running = False\n        self.check_interval = 24 * 60 * 60  # 24 hours in seconds\n    async def start_scheduler(self):\n        \"\"\"Start the movie update scheduler\"\"\"\n        self.is_running = True\n        logger.info(\"Movie update scheduler started\")",
+        "detail": "services.movie_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "tmdb.API_KEY",
+        "kind": 5,
+        "importPath": "services.movie_service",
+        "description": "services.movie_service",
+        "peekOfCode": "tmdb.API_KEY = TMDB_API_KEY\nasync def fetch_and_save_upcoming_movies(session, page=1, limit=None):\n    movies_api = tmdb.Movies()\n    response = movies_api.upcoming(page=page)\n    results = response.get(\"results\", [])\n    if limit:\n        results = results[:limit]\n    saved_movies = []\n    for item in results:\n        try:",
+        "detail": "services.movie_service",
+        "documentation": {}
+    },
+    {
         "label": "logger",
         "kind": 5,
         "importPath": "app",
         "description": "app",
-        "peekOfCode": "logger = get_logger()\n# Register routers\ndp.include_router(commands_router)\ndp.include_router(callbacks_router)\ndp.include_router(messages_router)\nasync def set_commands():\n    \"\"\"Set bot commands in menu\"\"\"\n    commands = [\n        BotCommand(command=\"start\", description=\"Start the bot\"),\n        BotCommand(command=\"help\", description=\"Show help message\"),",
+        "peekOfCode": "logger = get_logger()\n# Register routers\ndp.include_router(commands_router)\ndp.include_router(callbacks_router)\ndp.include_router(messages_router)\n# Global scheduler instance\nscheduler = None\nasync def set_commands():\n    \"\"\"Set bot commands in menu\"\"\"\n    commands = [",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "scheduler",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "scheduler = None\nasync def set_commands():\n    \"\"\"Set bot commands in menu\"\"\"\n    commands = [\n        BotCommand(command=\"start\", description=\"Start the bot\"),\n        BotCommand(command=\"help\", description=\"Show help message\"),\n        BotCommand(command=\"post_upcoming\", description=\"Post upcoming movies\"),\n        BotCommand(command=\"check_updates\", description=\"Check movie updates\"),\n    ]\n    await bot.set_my_commands(commands)",
         "detail": "app",
         "documentation": {}
     },
@@ -591,7 +975,7 @@
         "kind": 5,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "ERROR_CHANNEL_ID = int(ERROR_CHANNEL_ID)\n# Database settings\nDATABASE_URL = getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL not set in .env\")\nTMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")",
+        "peekOfCode": "ERROR_CHANNEL_ID = int(ERROR_CHANNEL_ID)\n# Database settings\nDATABASE_URL = getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL not set in .env\")\nTMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")\nMOVIES_CHANNEL_ID = getenv(\"MOVIES_CHANNEL_ID\")\nif not MOVIES_CHANNEL_ID:",
         "detail": "config",
         "documentation": {}
     },
@@ -600,7 +984,7 @@
         "kind": 5,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "DATABASE_URL = getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL not set in .env\")\nTMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")",
+        "peekOfCode": "DATABASE_URL = getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise ValueError(\"DATABASE_URL not set in .env\")\nTMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")\nMOVIES_CHANNEL_ID = getenv(\"MOVIES_CHANNEL_ID\")\nif not MOVIES_CHANNEL_ID:\n    raise ValueError(\"MOVIES_CHANNEL_ID not set in .env\")\nMOVIES_CHANNEL_ID = int(MOVIES_CHANNEL_ID)",
         "detail": "config",
         "documentation": {}
     },
@@ -609,7 +993,25 @@
         "kind": 5,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "TMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")",
+        "peekOfCode": "TMDB_API_KEY = getenv(\"TMDB_API_KEY\")\nif not TMDB_API_KEY:\n    raise ValueError(\"TMDB_API_KEY not set in .env\")\nMOVIES_CHANNEL_ID = getenv(\"MOVIES_CHANNEL_ID\")\nif not MOVIES_CHANNEL_ID:\n    raise ValueError(\"MOVIES_CHANNEL_ID not set in .env\")\nMOVIES_CHANNEL_ID = int(MOVIES_CHANNEL_ID)",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MOVIES_CHANNEL_ID",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "MOVIES_CHANNEL_ID = getenv(\"MOVIES_CHANNEL_ID\")\nif not MOVIES_CHANNEL_ID:\n    raise ValueError(\"MOVIES_CHANNEL_ID not set in .env\")\nMOVIES_CHANNEL_ID = int(MOVIES_CHANNEL_ID)",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MOVIES_CHANNEL_ID",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "MOVIES_CHANNEL_ID = int(MOVIES_CHANNEL_ID)",
         "detail": "config",
         "documentation": {}
     },
