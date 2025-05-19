@@ -3,7 +3,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 from models import get_session
 from services.movie_service import fetch_and_save_upcoming_movies
-from services.channel_service import ChannelService
+from services.channel_services import ChannelService
 from config import MOVIES_CHANNEL_ID
 from logger import get_logger
 
@@ -92,4 +92,5 @@ async def cmd_check_updates(message: Message):
         await message.answer("✅ Movie update check completed!")
         
     except Exception as e:
-        
+        logger.error(f"Error in check updates command: {e}", exc_info=True)
+        await message.answer("❌ An error occurred while checking for updates")        

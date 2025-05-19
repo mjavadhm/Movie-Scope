@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 from sqlalchemy import select
 from models import get_session
 from models.movie import Movie
-from services.channel_service import ChannelService
+from services.channel_services import ChannelService
 from logger import get_logger
 from config import TMDB_API_KEY
 
